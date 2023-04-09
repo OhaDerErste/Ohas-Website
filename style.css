@@ -41,8 +41,10 @@ body {
 
 .link:hover{
     z-index: 1;
-    background-color: rgba(255, 255, 255, 0.089);
+    
     transform: scale(1.1);
+    transition-delay: -1s;
+    background-color: rgba(255, 255, 255, 0.233);
 }
 
 
