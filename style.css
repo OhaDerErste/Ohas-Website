@@ -15,17 +15,15 @@ body {
 #links{
     z-index: 2;
     max-width: 675px;
-    width: auto;
     display: block;
     margin: 27px auto;
 }
 .link{
-    backdrop-filter: blur(5px);
-    background-color: rgba(0, 0, 0, 0.233);
+    backdrop-filter: blur(10px);
+    background-color: rgba(0, 0, 0, 0.212);
     z-index: 9;
     display: block;
     color: rgb(255, 255, 255);
-    font-family: var(--font);
     text-align: center;
     margin-bottom: 15px;
     padding: 10px;
